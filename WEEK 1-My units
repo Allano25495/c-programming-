@@ -1,13 +1,12 @@
-#include <stdio.h>
-
-int main() {
-    /*
+   /*
     Description: Program displays units offered this semester
     Name: Allan Moses Otieno Oyalo
     Reg No: BDSA-03-0026/2026
     Date: 13/05/2026
     */
-
+#include <stdio.h>
+int main() {
+    
     printf("Units offered this semester:\n");
     printf("BCU 111 COMMUNICATION SKILLS\n");
     printf("BCU 112 DIGITAL LITERACY\n");
